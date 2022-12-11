@@ -11,7 +11,7 @@ function App() {
       <Card />
       <Mascota />
       <header className="App-header">
-        <img src="images/gatito.jpg" alt="Gatito" />
+        <img src="images/gato.jpg" alt="Gato" />
         {/* <img src={logo} className="App-logo" alt="logo" /> */}
         <p>
           Edit!!! <code>src/App.js</code> and save to reload.

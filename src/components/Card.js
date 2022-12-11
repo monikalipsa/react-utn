@@ -6,7 +6,7 @@ import './Card.css';
 // - envio_gratis (boolean)
 
 export default function Card () {
-    let imagen = 'images/gatito.jpg';
+    let imagen = 'images/gato.jpg';
     let titulo = 'Teléfono celular';
     let precio = 13662;
     // let precio_descuento = precio * 0.9;
