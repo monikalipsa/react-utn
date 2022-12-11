@@ -1,20 +1,20 @@
 // import logo from './logo.svg';
-import Title  from './components/Title';
+import Title from './components/Title';
 import Mascota from './components/Mascota';
+import Card from './components/Card';
 import './App.css';
-
-
 
 function App() {
   return (
     <div className="App">
       <Title />
-          <Mascota />  
+      <Card />
+      <Mascota />
       <header className="App-header">
-        <img src='images/gato.jpg' alt='gato'/>
+        <img src="images/gatito.jpg" alt="Gatito" />
         {/* <img src={logo} className="App-logo" alt="logo" /> */}
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Edit!!! <code>src/App.js</code> and save to reload.
         </p>
         <a
           className="App-link"
@@ -30,3 +30,4 @@ function App() {
 }
 
 export default App;
+
