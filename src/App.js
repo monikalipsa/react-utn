@@ -1,7 +1,9 @@
 // import logo from './logo.svg';
 import Title  from './components/Title';
-import './App.css';
 import Mascota from './components/Mascota';
+import './App.css';
+
+
 
 function App() {
   return (

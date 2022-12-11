@@ -1,0 +1,7 @@
+COMPONENTE CARD
+
+VA A TENER: 
+             -imagen (string)
+             -titulo (sting)
+             -precio (number)
+             -envio_grais (boolean)
